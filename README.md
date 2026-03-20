@@ -4,7 +4,7 @@
 目标是构建您的桌面AI助手。
 
 <p align="center">
-  <img src="./ClawLamp2.png" width="280">
+  <img src="./ClawLamp2.png" width="500">
 </p>
 
 ## TODO
