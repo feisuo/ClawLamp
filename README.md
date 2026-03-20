@@ -2,7 +2,7 @@
 
 ClawLamp 是一款内置OpenClaw的智能台灯，是您桌面的智能助理。 
   当前实现能力： 
-  - LED灯控制，通过LED矩阵，实现不同的灯光效果
+  - LED灯控制，通过LED矩阵阵列和颜色变换实现不同的交互
   - 整合了飞书Channal，可以通过飞书和ClawLamp互动，询问工作日程，查收邮件等。 
 
 <p align="center">
