@@ -1,10 +1,10 @@
 # ClawLamp
 
-    ClawLamp 是一款内置OpenClaw的智能台灯，目前具有灯光和运动控制，并整合了飞书，可以通过飞书和ClawLamp互动，询问工作日程，查收邮件灯。 
-目标是构建您的桌面AI助手。
+<p>  ClawLamp 是一款内置OpenClaw的智能台灯，目前具有灯光和运动控制，并整合了飞书，可以通过飞书和ClawLamp互动，询问工作日程，查收邮件灯。 
+目标是构建您的桌面AI助手。</p>
 
 <p align="center">
-  <img src="./ClawLamp2.png" width="500">
+  <img src="./ClawLamp2.png" width="600">
 </p>
 
 ## TODO
